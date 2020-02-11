@@ -34,5 +34,3 @@ impress the managers. It&#39;s the little details that often disqualify candidat
 - Please add JUNIT unit tests for you code. Please add well documented readme file.  
 - Please add detailed Javadoc for each class and important methods.
 - Please add detailed log for input / output in the main/test code.
-
-
